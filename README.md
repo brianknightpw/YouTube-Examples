@@ -4,8 +4,11 @@ Examples from Brian on YouTube
 Learn with the Nerds Events
 
 •	Power Apps Cheat Sheet: https://pragmaticworks.com/resources/cheat-sheets/power-apps-cheat-sheet-page/
+
 •	Free Developer License: https://powerapps.microsoft.com/en-us/developerplan/ 
+
 Crib Notes
+
 Dataverse
 •	Go to https://make.powerapps.com
 •	Go to Solutions and create a new solution called “University Honors Program”
