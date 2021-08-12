@@ -1,0 +1,21 @@
+
+.tab-title {
+  padding: 8px;
+  text-align: center;
+  background: #1276CE;
+  color: white;
+  font-size: 28px;}
+
+.section-title {font-size: 16px;
+font-weight: 500;}
+
+.instructions {font-weight: 500; color:navy;}
+
+.bar.progress-bar {background:#1276CE;}
+
+.navbar-static-top.navbar { min-height: 90px; }
+ 
+.crmEntityFormView fieldset {
+  padding: 0 28px 20px;
+background:whitesmoke;
+}
